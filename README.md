@@ -1,4 +1,5 @@
-# GalihBarbar
+# galihBarbar
+sh
 Galih bar bar
 None \033[1;0m 
 Black \033[0;30m 
