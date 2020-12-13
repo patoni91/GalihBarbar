@@ -1,5 +1,7 @@
-# galihBarbar
-sh
+Python galihbarbar.py
+
+
+
 Galih bar bar
 None \033[1;0m 
 Black \033[0;30m 
@@ -22,7 +24,7 @@ Cyan='\e[0;36m
 purple='\e[0;35m'
 brown='\e[0;33m'
 lightgray='\e[0;37m'
-darkgray='\e[1;30m'
+darkgray='\e[1;30m
 lightblue='\e[1;34m'
 lightgreen='\e[1;32m'
 lightcyan='\e[1;36m'
